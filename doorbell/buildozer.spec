@@ -1,7 +1,7 @@
 [app]
 title          = Doorbell Detector
 package.name   = doorbelldetector
-package.domain = com.yourname
+package.domain = com.qwerty
 source.dir     = .
 source.include_exts = py,kv,tflite,csv
 version        = 0.1
@@ -17,9 +17,6 @@ android.api     = 34
 android.archs   = arm64-v8a
 android.orientation = portrait
 android.allow_backup = True
-
-# Target Android SDK
-android.sdk = 34
 
 # Application versioning
 version.code = 1
