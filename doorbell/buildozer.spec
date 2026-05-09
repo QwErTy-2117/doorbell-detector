@@ -17,6 +17,8 @@ android.archs   = arm64-v8a
 android.orientation = portrait
 android.allow_backup = True
 
+android.build_tools = 34.0.0
+
 version.code = 1
 
 [buildozer]
