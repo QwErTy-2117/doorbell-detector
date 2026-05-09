@@ -1,0 +1,6 @@
+numpy
+tflite-runtime
+pyaudio
+plyer
+kivy
+python-osc
